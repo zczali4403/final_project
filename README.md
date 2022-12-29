@@ -11,3 +11,5 @@ pyecharts.ipynb————制作癌症发生率和死亡率世界地图的代�
 incidence.html————癌症发生率的世界地图本地网页文件
 
 death_rate.html————癌症死亡率的世界地图本地网页文件
+
+网址————https://mybinder.org/v2/gh/zczali4403/final_project.git/master?urlpath=%2Fpanel%2Fmybinder
